@@ -18,7 +18,7 @@ Durante o desenvolvimento foram utilizados conceitos como Design Pattern Factory
 
 ## 🎮 Como jogar
 
-- **Movimentação**: Use as setas do teclado (`←`, `→`, `↑`, `↓`) para se mover.
+- **Movimentação**: Use as setas do teclado (`←`, `→`, `↑`, `↓`), ou W, A, S, D para se mover / Pressione [ESPAÇO] para usar o nitro.
 - **Objetivo**: Desvie dos outros veículos, colete pacotes de vida e estrelas douradas.
 - **Progressão**: A velocidade do fundo e dos inimigos aumenta com o tempo.
 - **Duração média da partida**: ~7 minutos antes que a dificuldade fique insana 🚀
@@ -47,27 +47,10 @@ git clone https://github.com/ThalesOliveira100/StreetDrive
 
 ---
 
-## 📁 Estrutura do Projeto
-
-StreetDrive/
-├── assets/             # Sons, imagens e ícones
-├── code/               # Código fonte dividido em arquivos e classes
-│   ├── background.py
-│   ├── enemy.py
-│   ├── entity.py
-│   └── ...
-├── main.py             # Ponto de entrada do jogo
-├── requirements.txt
-├── StreetDrive.exe     # Gerado via PyInstaller
-└── README.md
-
-
----
-
 ## ⭐ Créditos
 
-- Desenvolvido por [Thales Oliveira]
-- Projeto acadêmico — [Uninter]
+- Desenvolvido por **[Thales Oliveira]**
+- Projeto acadêmico — **[Uninter]**
 
 
 ---
